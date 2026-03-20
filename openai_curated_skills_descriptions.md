@@ -11,7 +11,7 @@ Source: OpenAI curated skills list and each skill's `SKILL.md` description from 
 5. **doc** — Read, create, or edit `.docx` documents, especially when formatting or layout fidelity matters.
 6. **figma** — Use the Figma MCP server to fetch design context, screenshots, variables, and assets from Figma, and translate Figma nodes into production code.
 7. **figma-implement-design** — Translate Figma nodes into production-ready code with 1:1 visual fidelity using the Figma MCP workflow.
-8. **frontend-skill** — [Description __not_ available from official documentation]
+8. **frontend-skill** — [Description _not_ available from official documentation]
 9. **gh-address-comments** — Help address review or issue comments on the open GitHub PR for the current branch using the GitHub CLI.
 10. **gh-fix-ci** — Debug or fix failing GitHub PR checks that run in GitHub Actions by inspecting checks and logs, then proposing or implementing fixes.
 11. **imagegen** — Generate or edit images via the OpenAI Image API, including inpainting, masking, background replacement, transparent backgrounds, and batch variants.
